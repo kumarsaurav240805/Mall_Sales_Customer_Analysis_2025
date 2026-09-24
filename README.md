@@ -35,4 +35,103 @@ The goal of the project is to analyze the transaction data in the mall and answe
 - 🎨 **Seaborn** — Statistical visualization
 - 📗 **Microsoft Excel** — Dashboard creation and reporting
 
+4.Business Problem
+
+Raw transaction data is quite informative; however, it does not offer a quick insight into the business performance.
+
+The major objectives of the analysis include:
+
+- Sales trends identification
+- Profitability analysis
+- Performance analysis of products and categories
+- Customer behavior analysis
+- Analysis of repeat customers' performance
+- Performance analysis of memberships
+- Preferences of payment methods
+- Sales channels performance analysis
+
+The main aim is to transform the transactional data into insightful analytics.
+
+5.Data Analysis in Python & Key Findings
+
+ Data Quality
+
+Data preparation steps comprised:
+
+- Missing value check
+- Duplicate entry check
+- Date conversion
+- Type conversion for numeric variables
+- Creation of additional variables like month and age group
+- Data preparation for analysis
+
+6.Aim of the Dashboard
+
+The Excel dashboard provides a consolidated view of:
+
+- Overall sales and profit
+- Monthly sales performance
+- Category and subcategory performance
+- Customer demographics
+- Membership-wise sales
+- Payment-method performance
+- Sales-channel contribution
+- Top-performing products
+
+7.Impact on Business & Learnings
+
+Product Analysis
+
+Identification of high performing categories/sub-categories and products can be used for the analysis of demand and contribution from sales of these products.
+
+Customer Analysis
+
+Analysis of age groups, gender, membership, repeat customers gives a lot of information about various customer segments.
+
+Sales Planning
+
+Monthly trends in sales give an idea about which months are better and which are weaker.
+
+Profitability Analysis
+
+Profit analysis along with sales gives a more holistic picture of business performance.
+
+Payment Analysis
+
+Analysis of payments helps to understand customer payment habits.
+
+Sales Channel Analysis
+
+Comparison of online and offline sales gives channel-wise contribution.
+
+8.Conclusion
+
+The Mall Sales & Customer Analysis – 2025 shows the whole data analytics process from beginning to the end using Python and Excel.
+The analysis includes:
+
+Sales performance
+
+Profitability
+
+Trends
+
+Performance of products/categories
+
+Customer behavior
+
+Repeat customers
+
+Age demographics
+
+Segments of membership
+
+Mode of payments
+
+Sales channels
+
+This project shows practical skills of Python, Pandas, NumPy, Statistics, SQL, Matplotlib, Seaborn, and Excel Dashboard.
+
+
+
+
 
