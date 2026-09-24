@@ -35,7 +35,11 @@ The goal of the project is to analyze the transaction data in the mall and answe
 - 🎨 **Seaborn** — Statistical visualization
 - 📗 **Microsoft Excel** — Dashboard creation and reporting
 
-4.Business Problem
+4.Dataset Source
+
+The above mentioned dataset was given to me by my college for carrying out some analysis for an academic project. This dataset comprises 8,000 rows and 24 columns.
+
+5.Business Problem
 
 Raw transaction data is quite informative; however, it does not offer a quick insight into the business performance.
 
@@ -52,7 +56,7 @@ The major objectives of the analysis include:
 
 The main aim is to transform the transactional data into insightful analytics.
 
-5.Data Analysis in Python & Key Findings
+6.Data Analysis in Python & Key Findings
 
  Data Quality
 
@@ -65,7 +69,7 @@ Data preparation steps comprised:
 - Creation of additional variables like month and age group
 - Data preparation for analysis
 
-6.Aim of the Dashboard
+7.Aim of the Dashboard
 
 The Excel dashboard provides a consolidated view of:
 
@@ -78,7 +82,7 @@ The Excel dashboard provides a consolidated view of:
 - Sales-channel contribution
 - Top-performing products
 
-7.Impact on Business & Learnings
+8.Impact on Business & Learnings
 
 Product Analysis
 
@@ -104,7 +108,7 @@ Sales Channel Analysis
 
 Comparison of online and offline sales gives channel-wise contribution.
 
-8.Conclusion
+9.Conclusion
 
 The Mall Sales & Customer Analysis – 2025 shows the whole data analytics process from beginning to the end using Python and Excel.
 The analysis includes:
